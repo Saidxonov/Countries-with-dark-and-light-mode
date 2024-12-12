@@ -1,0 +1,58 @@
+[
+  {
+    "country": "United States",
+    "population": 331002651,
+    "region": "Americas",
+    "capital": "Washington, D.C.",
+    "flag": "https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg"
+  },
+  {
+    "country": "France",
+    "population": 67391582,
+    "region": "Europe",
+    "capital": "Paris",
+    "flag": "https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg"
+  },
+  {
+    "country": "Germany",
+    "population": 83240525,
+    "region": "Europe",
+    "capital": "Berlin",
+    "flag": "https://upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg"
+  },
+  {
+    "country": "Brazil",
+    "population": 212559417,
+    "region": "Americas",
+    "capital": "Brasília",
+    "flag": "https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg"
+  },
+  {
+    "country": "India",
+    "population": 1393409038,
+    "region": "Asia",
+    "capital": "New Delhi",
+    "flag": "https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg"
+  },
+  {
+    "country": "Australia",
+    "population": 25687041,
+    "region": "Oceania",
+    "capital": "Canberra",
+    "flag": "https://upload.wikimedia.org/wikipedia/en/b/b9/Flag_of_Australia.svg"
+  },
+  {
+    "country": "South Africa",
+    "population": 59308690,
+    "region": "Africa",
+    "capital": "Pretoria",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/a/af/Flag_of_South_Africa.svg"
+  },
+  {
+    "country": "Canada",
+    "population": 37742154,
+    "region": "Americas",
+    "capital": "Ottawa",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg"
+  }
+]

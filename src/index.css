@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.container {
+  max-width: 1280px;
+  width: 100%;
+  margin: 0 auto;
+}
+.register {
+  background: linear-gradient(to right, white 50%, #02529c 50%);
+  height: 100vh;
+}
+.right {
+  margin: 100px auto;
+}
